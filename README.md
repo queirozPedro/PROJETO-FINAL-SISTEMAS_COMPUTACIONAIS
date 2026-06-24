@@ -87,18 +87,39 @@ O notebook executa, na ordem:
 > Todos os resultados aparecem **dentro do próprio notebook** — não é criada nenhuma
 > pasta de saída. (A última célula, opcional, salva os pesos em `cabeca_treinada.pt`.)
 
-**Tempo aproximado (CPU):** extração de features ~1–2 min · treino ~poucos segundos.
-
----
-
-## 5. Arquivos do projeto
-
-Veja **`GUIA_ARQUIVOS.md`** — explica para que serve cada arquivo da pasta
-(útil caso a banca pergunte).
-
----
-
-## 6. Apresentação
-
-- **`apresentacao.html`** — slides (abra no navegador, navegue com as setas ← →).
-- **`COMO_FUNCIONA.md`** — roteiro de estudo + perguntas prováveis da banca.
+##  Equipe
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/andreysabino">
+        <img src="https://avatars.githubusercontent.com/u/100762620?v=4" width="100px;" alt="Foto de Andrey Sabino no GitHub"/><br>
+        <sub>
+          <b>Andrey</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Joaofelype23">
+        <img src="https://avatars.githubusercontent.com/u/110605331?v=4" width="100px;" alt="Foto de João Felype no GitHub"/><br>
+        <sub>
+          <b>João Felype</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Nathan-cardoso">
+        <img src="https://avatars.githubusercontent.com/u/100364030?v=4" width="100px;" alt="Foto de Nathan Cardoso no GitHub"/><br>
+        <sub>
+          <b>Nathan Cardoso</b>
+        </sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/CaraChaato">
+        <img src="https://avatars.githubusercontent.com/u/110605121?v=4" width="100px;" alt="Foto de Pedro Vinícius no GitHub"/><br>
+        <sub>
+          <b>Pedro Vinícius</b>
+        </sub>
+      </a>
+    </td>
+        </sub>
