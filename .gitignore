@@ -1,0 +1,25 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Caches Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Artefatos gerados ao rodar o notebook/scripts
+data_prep/
+features/
+resultados/
+*.pt
+*.npz
+
+# Dataset (não versionar — é grande; baixe à parte, veja o README)
+data/
+*.h5
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
